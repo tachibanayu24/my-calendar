@@ -36,9 +36,9 @@ p {
 
 .mask-1 {
   width: 140px;
-  height: 20px;
+  height: 24px;
   background-color: #e3e9ff;
   position: absolute;
-  bottom: 8px;
+  bottom: 6px;
   right: 4px;
 }
